@@ -3,5 +3,5 @@ def reverse_each_word(string)
   array.map do |words|
     words.reverse
   end
-  array.toString
+  array.toString()
 end
